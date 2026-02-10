@@ -74,9 +74,9 @@ EXPO_PUBLIC_API_URL=http://SEU_IP_LOCAL:3000
 
 📌 Observações importantes:
 
-Emulador Android: http://10.0.2.2:3000
-Dispositivo físico: http://IP_DA_SUA_MAQUINA:3000
-Backend em Docker: usar o IP da máquina host
+- Emulador Android: http://10.0.2.2:3000
+- Dispositivo físico: http://IP_DA_SUA_MAQUINA:3000
+- Backend em Docker: usar o IP da máquina host
 
 5️⃣ Rodar o aplicativo
 
