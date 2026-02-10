@@ -90,6 +90,6 @@ Abra no:
 # 👨‍💻 Autor
 
 Wanderson de Sousa
-📍 São Paulo – SP
-🌐 https://wsousa.dev
-📧 wanderson@wsousa.dev
+- 📍 São Paulo – SP
+- 🌐 https://wsousa.dev
+- 📧 wanderson@wsousa.dev
